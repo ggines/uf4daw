@@ -1,2 +1,1 @@
-mis datos están salvados.
-editado
+mis datos están salvados y modificados
