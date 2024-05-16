@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 Archivo subido desde github.com (MODIFICADO)
+=======
+Archivo subido desde github.com
+>>>>>>> Stashed changes
 Modificado desde local
